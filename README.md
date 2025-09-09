@@ -28,7 +28,7 @@ Visualization: Tableau (advanced breakdown, visualisation) + Power BI (DAX Calcu
 📂 Data Source: TCEL Laboratory – Rooppur Nuclear Power Plant Project.
 Courtesy: Lab in-charge for providing database access.
 
-[[Report Link](https://github.com/AbdullahSalimTurzo/Analysis-Report-on-Concrete-Production---Rooppur-Nuclear-Power-Plant-Project---TCEL-2018-2025-/blob/7db82c23537921031e78900e512f695fe6cd015e/Total%20Concrete%20Report%202018%20-%202025-TCEL-RNPP.pdf))]
+[[Report Link](https://github.com/AbdullahSalimTurzo/Analysis-Report-on-Concrete-Production---Rooppur-Nuclear-Power-Plant-Project---TCEL-2018-2025-/blob/7db82c23537921031e78900e512f695fe6cd015e/Total%20Concrete%20Report%202018%20-%202025-TCEL-RNPP.pdf)]
 
 _Copyright (c) 2025 Abdullah Salim Turja_
 
