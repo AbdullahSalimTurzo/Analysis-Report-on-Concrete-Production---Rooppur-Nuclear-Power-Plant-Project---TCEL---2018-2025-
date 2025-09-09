@@ -12,7 +12,7 @@ _🔬Concrete Grades:_ B-25_W6 and B-25 had the highest volumes.
 
 _Effective Casting Days:_ 2,109 days tracked with Pour Card documentation.
 
-</p>
+
 
 **🛠 Tools & Methods**
 
@@ -22,11 +22,11 @@ Statistical Analysis: Google Sheets (pivot tables, deviation analysis)
 
 Visualization: Tableau (advanced breakdown, visualisation) + Power BI (DAX Calculation, bar charts, pie charts, histograms)
 
-</p>
+
 
 **📈 This project demonstrates my ability to handle large datasets, perform statistical analysis, and create clear visualizations to support complex engineering projects.**
 
-</p>
+
 
 📂 Data Source: TCEL Laboratory – Rooppur Nuclear Power Plant Project.
 Courtesy: Lab in-charge for providing database access.
@@ -41,5 +41,7 @@ This repository and its contents are provided publicly for viewing purposes only
 You are NOT granted any rights to copy, download, modify, distribute, or otherwise use the code, data, or documentation in this repository without prior written permission from the copyright holder.
 
 Unauthorized use of this material is strictly prohibited and may result in legal action.
+
+
 [[abdullahsalim.ibaju@gmail.com]
 ](mailto:abdullahsalim.ibaju@gamil.com)
